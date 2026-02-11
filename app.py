@@ -189,3 +189,4 @@ if __name__ == "__main__":
 
 # For Render Deployment (keeps app alive)
 PORT = int(os.environ.get("PORT", 10000))
+         
