@@ -1,0 +1,18 @@
+S. NO.	HOLIDAYS	   DATE	                DAY OF THE WEEK
+1	Ram Navami	   30th March 2023	Thursday
+2	Id-Ul-Fitr	   22nd April 2023	Saturday
+3	Id- Ul-Zuha	   29th June 2023	Thursday
+4	Muharram	   29th July 2023	Saturday
+5	Independence Day   15th August 2023	Tuesday
+6	Raksha Bandhan	   30th August 2023	Wednesday
+7	Janmashtami	   6th September 2023	Wednesday
+8	Gandhi Jayanti	   2nd October 2023	Monday
+9	Dussehra	   24th October 2023	Tuesday
+10	Valmiki Jayanti	   28th October 2023	Saturday
+11	Haryana Day	   1st November 2023	Wednesday
+12	Diwali	           12th November 2023	Sunday
+13	Guru Nanak Jayanti 27th November 2023	Monday
+14	Christmas	   25th December 2023	Monday
+15	Republic Day	   26th January 2024	Friday
+16	Maha Shivratri	   8th March 2024	Friday
+17	Holi	           25th March 2024	Monday
