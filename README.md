@@ -56,7 +56,7 @@ Employee-Portal/
 
 | Role       | ID    | Password |
 |------------|-------|----------|
-| Admin      | admin | adm34    |
+| Admin      | admin | adm    |
 | Employee 1 | Emp1  | meow123  |
 | Employee 2 | Emp2  | nn123    |
 | Employee 3 | Emp3  | jivi11   |
